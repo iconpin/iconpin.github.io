@@ -1,13 +1,12 @@
 theme: minima
-show_excerpts: true
+
+title: copi.cat
+author: "Ignacio Contreras Pinilla"
+email: "ignacio@copi.cat"
+
+twitter_username: iconpin
+github_username: iconpin
+rss: rss
 
 minima:
   skin: solarized
-  social_links:
-    twitter: iconpin
-    github: iconpin
-    keybase: iconpin
-
-author:
-  name: "Ignacio Contreras Pinilla"
-  email: "ignacio@copi.cat"
