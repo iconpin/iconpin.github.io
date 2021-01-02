@@ -1,3 +1,3 @@
-# Ping
-
-Pong
+---
+layout: home
+---
